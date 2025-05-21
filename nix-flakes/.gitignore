@@ -1,0 +1,7 @@
+vendor
+
+# Nix
+result*
+
+# Misc
+.direnv
